@@ -2,12 +2,13 @@
 
 
 - Estudante de Programação
-- Cursando Técnico em Redes de Computadores no SENAI - Suíço Brasileiro "Paulo Ernesto Tolle"
+- Formado em Técnico em Redes de Computadores no SENAI - Suíço Brasileiro "Paulo Ernesto Tolle"
+- Cursando Engenharia da Computação na Univesp 
 
 ## 💻 Habilidades
 
 ### Linguagens:
-Linguagens cujo já tive contato
+Linguagens que já tive contato
 
 <img width="173" alt="image" src="https://github.com/Estevam-Aquino/Estevam-Aquino/assets/157605477/40aa9f6a-9250-421e-8857-c4e8b518bff8">
 
